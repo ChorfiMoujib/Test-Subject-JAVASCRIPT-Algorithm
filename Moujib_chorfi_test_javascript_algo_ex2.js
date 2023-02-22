@@ -48,4 +48,3 @@ function F21(A) {
   
   console.log(F21(array_number));
   document.getElementById('console').innerHTML += "<p>" + F21(array_number) + "</p>";
-  
